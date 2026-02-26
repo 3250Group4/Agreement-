@@ -8,7 +8,7 @@ Culture
 
 Meetings
 
-  will be on tuesday and thrusday form 8 to 10. notes of what happened. 
+  will be on tuesday and thrusday form 8 to 10. notes of what happened. is going to  be resbonsblie for notes Amadou, notes stored in microsoft and shared in teams as a doc
 
 Communication
 
