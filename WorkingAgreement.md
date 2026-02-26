@@ -1,40 +1,21 @@
 Culture
-
-  Trust: Honestly, Reliability, 
-  Conflict: Cordial when debating, comming to a conclusion, disagreement with an idea is not a refelection on the preson who sugestted it
-  Commitment: Regardless of how you feel about dessecion this is for a grade, experience for furture work
-  Accountability: your going to see your classmates every thus and thurs, issues in github and daily check in
-  Results: progess being made with each isssue being completed, meeting deadlines
-
+Trust: Honesty, reliability.
+Conflict: Cordial when debating and coming to a conclusion. Disagreement with an idea is not a reflection on the person who suggested it.
+Commitment: Regardless of how you feel about a decision, this is for a grade and experience for future work.
+Accountability: You're going to see your classmates every Tuesday and Thursday. Issues in GitHub and daily check-ins.
+Results: Progress being made with each issue being completed, meeting deadlines.
 Meetings
-
-  will be on tuesday and thrusday form 8 to 10. notes of what happened. is going to  be resbonsblie for notes Amadou, notes stored in microsoft and shared in teams as a doc
-
+Will be on Tuesday and Thursday from 8 to 10. Notes of what happened. Amadou is going to be responsible for notes. Notes stored in Microsoft and shared in Teams as a doc.
 Communication
-
-  Will being using Microsoft teams as our main from of communacation and will keep it semi-profession. Make sure we are responding to messages with in a timely manner, checking daily and giving team member a head heaad up if your not going to be there.
-
-  let teammates know if your not going to 
-
+Will be using Microsoft Teams as our main form of communication and will keep it semi-professional. Make sure we are responding to messages within a timely manner, checking daily and giving team members a heads-up if you're not going to be there. Let teammates know if you're not going to be present.
 Decisions
-
-  keep the team in mind, decision is made by who present during class
-
-  tie breaker - if there a tie then wwho ever suggest the idea vote is dropped
-
+Keep the team in mind. Decision is made by whoever is present during class. Tiebreaker — if there is a tie, then whoever suggested the idea has their vote dropped.
 Development
-
-  evenly, work assigment will be inside of github, using issues.
-
-  consequences wil be a bad grade, we are all adults 
-
+Evenly. Work assignments will be inside of GitHub, using issues. Consequences will be a bad grade. We are all adults.
 Workflow
-
-  Issue should be update with preogress for the week by Monday 11:59pm. then updated with next step for the next week. Tues dessicon and review in class, ask question and address isues
-
+Issues should be updated with progress for the week by Monday 11:59 PM, then updated with next steps for the following week. Tuesday: decision and review in class, ask questions and address issues.
 Agreement Review
-
-  Review once a month 
+Review once a month.
 
   Signtures 
 
