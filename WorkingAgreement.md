@@ -41,5 +41,5 @@ Agreement Review
   - Kenneth Pyron
   - Amadou Seck
   - Valentino Kogan
-  -
+  - Ayslynn Wardall
   -
