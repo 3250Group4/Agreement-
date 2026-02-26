@@ -1,12 +1,18 @@
 Culture
 
+  Trust: Honestly, Reliability, 
+  Conflict: Cordial when debating, comming to a conclusion, disagreement with an idea is not a refelection on the preson who sugestted it
+  Commitment: Regardless of how you feel about dessecion this is for a grade, experience for furture work
+  Accountability: your going to see your classmates every thus and thurs, issues in github and daily check in
+  Results: progess being made with each isssue being completed, meeting deadlines
+
 Meetings
 
   will be on tuesday and thrusday form 8 to 10. notes of what happened. 
 
 Communication
 
-  Will being using Microsoft teams as our main from of communacation and will keep it semi-profession. Make sure we are responding to messages with in a timely manner, checking daily and giving team member a head heaad up if your not going to be there. \
+  Will being using Microsoft teams as our main from of communacation and will keep it semi-profession. Make sure we are responding to messages with in a timely manner, checking daily and giving team member a head heaad up if your not going to be there.
 
   let teammates know if your not going to 
 
