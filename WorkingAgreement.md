@@ -33,4 +33,4 @@ Review once a month.
   - Amadou Seck
   - Valentino Kogan
   - Ayslynn Wardall
-  -
+  - Diego Salas
