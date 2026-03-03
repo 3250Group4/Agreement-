@@ -1,1 +1,38 @@
+tests
+P(A) = 1/5
 
+P(B)  = 1/2
+
+P(C) = .33
+
+P(D) = .1
+
+test 1 = P(A) * P(B)
+
+= 1/5 * 1/2
+
+= .1
+
+test 2 = P(C) * P(D)
+
+= .33 * .1
+
+=.033
+
+test 3 = P(B) * P(C) 
+
+= 1/2 * .33
+
+= .165
+
+test 4 = P(A) * P(D)
+
+= 1/5 * .1
+
+= .02
+
+return everything as a decimal 
+
+takes two double - take  both fraction and decimal 
+
+return a double
